@@ -1,6 +1,7 @@
 fun main(args: Array<String>) {
     val number1 = 10.5
     val number2 = 5.5
+    val number3 = 6.5
     val result:Double
 
     println("Sum = " + add(10,5))
